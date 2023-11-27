@@ -7,7 +7,7 @@ Steps to follow to preview output of code:
 3. Click on My devices and scan QR code on iOS or Android.
 4. To directly see the preview on the pc itself click on iOs/ Android/ Web to see the preview.
 
-Note: Currently Code is working only on iOs and Web.
+Note: Currently Code is working only on iOS and Web.
 
 
 
