@@ -1,3 +1,17 @@
+## Snack Preview Link:
+https://snack.expo.dev/@rp7007/shoppingcartapp
+
+Steps to follow to preview output of code:
+1. Click on snack link above.
+2. Then look at right corner, there are options for different devices.
+3. Click on My devices and scan QR code on iOS or Andriod.
+4. To directly see preview on pc itself click on iOs/ Android/ Web to see preview.
+
+Note: Currently Code is working only on iOs and Web.
+
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
