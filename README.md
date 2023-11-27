@@ -4,8 +4,9 @@ https://snack.expo.dev/@rp7007/shoppingcartapp
 Steps to follow to preview output of code:
 1. Click on the snack link above.
 2. Then look at the right corner, there are options for different devices.
-3. Click on My devices and scan QR code on iOS or Android.
-4. To directly see the preview on the pc itself click on iOs/ Android/ Web to see the preview.
+3. To preview code on your iOS or Android mobile device, download Expo app from playstore/ appstore.
+4. Click on My devices and scan QR code on iOS or Android.
+5. To directly see the preview on the pc itself click on iOs/ Android/ Web to see the preview.
 
 Note: Currently Code is working only on iOS and Web.
 
